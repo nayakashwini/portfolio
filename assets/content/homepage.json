@@ -1,0 +1,50 @@
+{
+  "menuItems": [
+    { "label": "About Me", "icon": "account_box", "sectionId": "about-me"},
+    { "label": "Projects & Skills", "icon": "category", "sectionId": "projects"},
+    { "label": "Skills", "icon": "star_border", "sectionId": "skills"},
+    { "label": "Education", "icon": "school", "sectionId": "education"},
+    { "label": "More Info", "icon": "emoji_nature", "sectionId": "more-info"}
+  ],
+  "aboutMe": "I am an SAP BI/BW HANA Consultant with 6 years of rich development experience.\n I work for an Indian multi-national company on client deputation in Germany. Our client is a reputed German sports goods retailer.\nI have experience in the complete lifecycle of project implementation viz. Business Requirement gathering and Blueprinting, Development and Unit Testing, Integration Testing and User Acceptance Testing, Technical Cut over, Go-Live and post production support during hyper care.\nAs an onsite co-ordinator, I have handled multiple responsibilities including requirement and solution discussions, resolution of issues in addition to project delivery. I am an effective communicator with strong articulation and interpersonal skills.\nExcellent team player with a positive can-do attitude, I keep the team motivated. I have the ability to drive the analysis, design and development of the solutions for timely delivery of items with high quality.",
+  "skills": {
+    "job": "•SAP BW and BW on HANA (NW 7.5, 7.3) Modelling and Reporting\n•DSO, ADSO, Info-Cube, Multi-provider, Composite Provider, Data Sources, Extractors, Virtual provider, ODS, Open Hub, Process Chain.\n•SAP HANA Native (SP9) Modelling and Reporting\n•HANA Modelling using Graphical Views viz. Calculation View, Analytical Views, Attribute Views and Scripted Views using SQL\n•SAP BW Integrated Planning\n•Real-Time Info-Cube, Aggregation Levels, Planning Objects like Planning Functions, Sequences, BEx Queries\n•SAP ABAP / Object Oriented ABAP\n•Transformations, ABAP Routines, Programs, Function Modules, Methods, BADI, CMOD exits\n•SAP BO Analysis for Office (2.3)\n•SAP BEx Suite for Query Designing and Reporting\n•BEx Query Designer, Variables, Conditions, Exceptional Aggregation, Structures",
+    "organisational": "•Leadership (currently leading team of 5 people as an onsite lead) with full ownership of the project delivery and sustenance.\n•Collaborative skills by working with internal and external stakeholders to move towards better solutions\n•Efficient time management, planning and organization skills displayed by managing multiple critical projects with tight deadlines."
+  },
+  "projects": [
+    {
+      "header": "Jan 2018 – Present Future Market Profitability – Onsite Development Lead (SAP BW, HANA, ABAP, SAP- Integrated Planning)",
+      "body": "Onsite lead for a team of 5 consultants for 2 Projects from the consolidated Project ‘Future Market Profitability’. Single point of contact for client for requirement gathering, analysis and technical solution design as well as sprint planning. Involved in design, build and Configuration of BW planning-enabled Info Providers (Real-Time Info-Cube and Direct Updated DSO) with BW on HANA experience to support data staging requirements for BPC. Hands-on experience in the development of planning objects including Aggregation Levels, BEx Queries, Planning Functions, Planning Filters, Planning Sequences, Data Slices and Formula-Type Planning functions with FOX. Experience in Customer Exits and BADI development to support functions for use by BPC solutions. Proficient in the use of SAP Analysis for Microsoft Office to perform custom calculations and support complex business planning and reporting scenarios."
+    },
+    {
+      "header": "Jun 2017 – Dec 2017 Cross-Channel Sell-Through -  Onsite Development Lead (SAP HANA, SAP BW, SAP ABAP)",
+      "body": "Consultant involved in requirement gathering, analysis and solution design, sprint planning Responsible for end to end delivery of sprints from development, UAT support till deployment and managed a team of 2 developers. Performance improvement by data pruning, data replication removal, and simplifying the on the fly calculations by providing better backend solution. Hands-on experience in development of aggregates and HANA developments to enable optimized, faster performing high-level reports and dashboards with reduced runtime. Development of optimized, simplified and smart solutions in HANA using filters, calculated columns, projections etc. to fulfil business requirements."
+    },
+    {
+      "header": "Jan 2017 – May 2017 Complexity Reporting – Developer (SAP HANA)",
+      "body": "Involved in requirement gathering, analysis and design, development, deployment and post production support. Worked on HANA Native (SP9) with extensive hands-on experience in Calculation views, Custom analytic views, Attribute views. Involved in complex development with implementation of Projections, Union, Join, Filters, Input Parameters, Semantic Assignments, Counters, Calculated Columns and Scripted Views Achieved a functional understanding of the flexible reporting application in addition to the technical expertise and analytic skills."
+    },
+    {
+      "header": "Inventory Management – Developer (SAP BW, SAP ABAP)",
+      "body": "Developer responsible for the complete build of the Sales data flow using Data Store Objects, Info Sources, Semantically Partitioned Objects and Transformations, process chains with scheduled runs. Extensive ABAP coding for the start routines and end routines, implementing custom function modules and programs to create daily and weekly snapshots."
+    },
+    {
+      "header": "Optimization of Central HANA view for Operational Reporting  - Developer (SAP HANA)",
+      "body": "Optimization project for a central HANA calculation view which involved inclusion of necessary navigational attributes, import of the analytic views and replication of changes to the existing setup of Calculation views."
+    },
+    {
+      "header": "Forecasting and Replenishment Project – Developer (SAP BW)",
+      "body": "Experience in implementing Standard SAP Business content, BEx queries, Report Designer, Virtual Provider and Process Chains"
+    }
+  ],
+  "moreInfo": {
+    "education": {
+      "header": "Education",
+      "content": "2008-2012 Bachelor of Technology in Electronics\n Mumbai University\nSecured First Class with Distinction\n"
+    },
+    "accomplishments": {
+      "header": "Accomplishments",
+      "content": "•Recipient of the Certificate of Appreciation for ‘High commitment exemplified in delivering the project on time with good quality’.\n•Exceptional communication and leadership skills. Have been a member of the International public speaking club Toastmasters in past.\n"
+    }
+  }
+}
