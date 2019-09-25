@@ -1,8 +1,8 @@
 {
   "menuItems": [
     { "label": "About Me", "icon": "account_box", "sectionId": "about-me"},
-    { "label": "Projects & Skills", "icon": "category", "sectionId": "projects"},
     { "label": "Skills", "icon": "star_border", "sectionId": "skills"},
+    { "label": "Projects & Skills", "icon": "category", "sectionId": "projects"},
     { "label": "More Info", "icon": "emoji_nature", "sectionId": "more-info"}
   ],
   "aboutMe": "I am an SAP BI/BW HANA Consultant with 6 years of rich development experience.\n I work for an Indian multi-national company on client deputation in Germany. Our client is a reputed German sports goods retailer.\nI have experience in the complete lifecycle of project implementation viz. Business Requirement gathering and Blueprinting, Development and Unit Testing, Integration Testing and User Acceptance Testing, Technical Cut over, Go-Live and post production support during hyper care.\nAs an onsite co-ordinator, I have handled multiple responsibilities including requirement and solution discussions, resolution of issues in addition to project delivery. I am an effective communicator with strong articulation and interpersonal skills.\nExcellent team player with a positive can-do attitude, I keep the team motivated. I have the ability to drive the analysis, design and development of the solutions for timely delivery of items with high quality.",
